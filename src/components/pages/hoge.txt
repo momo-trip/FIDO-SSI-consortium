@@ -1,0 +1,15 @@
+export const did1 = { "did":"tom01",
+"pk":"123",
+"sk":"Tom Wilson"
+}
+
+
+export const vc1 = { "did":"tom01",
+"name": "Tom Wilson",
+"claim": "diploma"
+}
+
+export const vc2 = { "did":"tom01",
+"name": "Tom Wilson",
+"claim": "grade"
+}
